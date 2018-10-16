@@ -120,7 +120,7 @@ public class SciCalculator {
                     errorInput = true;
                 }
             }
-            else if (userInput == 0)
+            else if (userInput == 0) //Quits program
             {
                 System.out.println("Thanks for using this calculator. Goodbye!");
                 calcSys = false;
